@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "es6",
+        "target": "es5",
+        "outDir": "./dist/",
+        "esModuleInterop": true
+    },
+    "exclude": [
+        ".vscode",
+        "dist",
+        "node_modules"
+    ]
+}
